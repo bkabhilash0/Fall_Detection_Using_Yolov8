@@ -1,0 +1,12 @@
+train: F:/Pre Reset/Academics/Rajagiri/MSc CS/Sem 3/DIP/Projects/dataset/train/images
+val: F:/Pre Reset/Academics/Rajagiri/MSc CS/Sem 3/DIP/Projects/dataset/valid/images
+test: F:/Pre Reset/Academics/Rajagiri/MSc CS/Sem 3/DIP/Projects/dataset/test/images
+
+names: ['Fall-Detected']
+
+roboflow:
+  workspace: roboflow-universe-projects
+  project: fall-detection-ca3o8
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/roboflow-universe-projects/fall-detection-ca3o8/dataset/4
